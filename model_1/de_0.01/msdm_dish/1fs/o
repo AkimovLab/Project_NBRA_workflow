@@ -1,0 +1,782 @@
+WARNING: Parameter tdse_Ham is not defined! in the input parametersUse the default value 
+WARNING: Parameter Hvib_type is not defined! in the input parametersUse the default value 
+
+Population of states at equilibirum for Temp 100.0  = 
+P0_eq =  1.0
+P1_eq =  1.93232626696e-14
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  100.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.494759
+0.505241
+actual ratio of the SH populations on the two states, at equilibrium =  1.02118607241
+actual ratio of the SE populations on the two states, at equilibrium =  1.01697161216
+
+Population of states at equilibirum for Temp 200.0  = 
+P0_eq =  0.999999860992
+P1_eq =  1.39008119538e-07
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  200.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.503212
+0.496788
+actual ratio of the SH populations on the two states, at equilibrium =  0.987234008728
+actual ratio of the SE populations on the two states, at equilibrium =  0.990304023544
+
+Population of states at equilibirum for Temp 300.0  = 
+P0_eq =  0.999973166221
+P1_eq =  2.68337785831e-05
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  300.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.496934
+0.503066
+actual ratio of the SH populations on the two states, at equilibrium =  1.01233966684
+actual ratio of the SE populations on the two states, at equilibrium =  1.00988051804
+
+Population of states at equilibirum for Temp 400.0  = 
+P0_eq =  0.999627301004
+P1_eq =  0.000372698996218
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  400.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.49869
+0.50131
+actual ratio of the SH populations on the two states, at equilibrium =  1.00525376486
+actual ratio of the SE populations on the two states, at equilibrium =  1.00381289381
+
+Population of states at equilibirum for Temp 500.0  = 
+P0_eq =  0.998195189686
+P1_eq =  0.00180481031389
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  500.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.499837
+0.500163
+actual ratio of the SH populations on the two states, at equilibrium =  1.00065221262
+actual ratio of the SE populations on the two states, at equilibrium =  1.00021195297
+
+Population of states at equilibirum for Temp 600.0  = 
+P0_eq =  0.994846493638
+P1_eq =  0.00515350636193
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  600.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.494814
+0.505186
+actual ratio of the SH populations on the two states, at equilibrium =  1.02096141176
+actual ratio of the SE populations on the two states, at equilibrium =  1.01666386504
+
+Population of states at equilibirum for Temp 700.0  = 
+P0_eq =  0.989132661881
+P1_eq =  0.0108673381187
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  700.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.497841
+0.502159
+actual ratio of the SH populations on the two states, at equilibrium =  1.00867345197
+actual ratio of the SE populations on the two states, at equilibrium =  1.00683533643
+
+Population of states at equilibirum for Temp 800.0  = 
+P0_eq =  0.981056762984
+P1_eq =  0.0189432370158
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  800.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.497422
+0.502578
+actual ratio of the SH populations on the two states, at equilibrium =  1.01036544423
+actual ratio of the SE populations on the two states, at equilibrium =  1.00825669808
+
+Population of states at equilibirum for Temp 900.0  = 
+P0_eq =  0.970931686426
+P1_eq =  0.029068313574
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  900.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.498478
+0.501522
+actual ratio of the SH populations on the two states, at equilibrium =  1.00610658846
+actual ratio of the SE populations on the two states, at equilibrium =  1.00487642583
+
+Population of states at equilibirum for Temp 1000.0  = 
+P0_eq =  0.959212879387
+P1_eq =  0.040787120613
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  1000.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.501672
+0.498328
+actual ratio of the SH populations on the two states, at equilibrium =  0.993334290134
+actual ratio of the SE populations on the two states, at equilibrium =  0.994567601804
+
+Population of states at equilibirum for Temp 100.0  = 
+P0_eq =  1.0
+P1_eq =  1.93232626696e-14
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  100.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+1.0
+0.0
+actual ratio of the SH populations on the two states, at equilibrium =  0.0
+actual ratio of the SE populations on the two states, at equilibrium =  0.123899006026
+
+Population of states at equilibirum for Temp 200.0  = 
+P0_eq =  0.999999860992
+P1_eq =  1.39008119538e-07
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  200.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+1.0
+0.0
+actual ratio of the SH populations on the two states, at equilibrium =  0.0
+actual ratio of the SE populations on the two states, at equilibrium =  0.123899006026
+
+Population of states at equilibirum for Temp 300.0  = 
+P0_eq =  0.999973166221
+P1_eq =  2.68337785831e-05
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  300.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+1.0
+0.0
+actual ratio of the SH populations on the two states, at equilibrium =  0.0
+actual ratio of the SE populations on the two states, at equilibrium =  0.123899006026
+
+Population of states at equilibirum for Temp 400.0  = 
+P0_eq =  0.999627301004
+P1_eq =  0.000372698996218
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  400.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.999674
+0.000326
+actual ratio of the SH populations on the two states, at equilibrium =  0.000326106310657
+actual ratio of the SE populations on the two states, at equilibrium =  0.12421735947
+
+Population of states at equilibirum for Temp 500.0  = 
+P0_eq =  0.998195189686
+P1_eq =  0.00180481031389
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  500.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.997596
+0.002404
+actual ratio of the SH populations on the two states, at equilibrium =  0.00240979314272
+actual ratio of the SE populations on the two states, at equilibrium =  0.126257082478
+
+Population of states at equilibirum for Temp 600.0  = 
+P0_eq =  0.994846493638
+P1_eq =  0.00515350636193
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  600.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.992526
+0.007474
+actual ratio of the SH populations on the two states, at equilibrium =  0.00753028132261
+actual ratio of the SE populations on the two states, at equilibrium =  0.131280702682
+
+Population of states at equilibirum for Temp 700.0  = 
+P0_eq =  0.989132661881
+P1_eq =  0.0108673381187
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  700.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.985774
+0.014226
+actual ratio of the SH populations on the two states, at equilibrium =  0.0144312996691
+actual ratio of the SE populations on the two states, at equilibrium =  0.138041971135
+
+Population of states at equilibirum for Temp 800.0  = 
+P0_eq =  0.981056762984
+P1_eq =  0.0189432370158
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  800.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.974446
+0.025554
+actual ratio of the SH populations on the two states, at equilibrium =  0.0262241314552
+actual ratio of the SE populations on the two states, at equilibrium =  0.149555810243
+
+Population of states at equilibirum for Temp 900.0  = 
+P0_eq =  0.970931686426
+P1_eq =  0.029068313574
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  900.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.960884
+0.039116
+actual ratio of the SH populations on the two states, at equilibrium =  0.0407083477298
+actual ratio of the SE populations on the two states, at equilibrium =  0.163702928277
+
+Population of states at equilibirum for Temp 1000.0  = 
+P0_eq =  0.959212879387
+P1_eq =  0.040787120613
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  1000.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.94799
+0.05201
+actual ratio of the SH populations on the two states, at equilibrium =  0.0548634479267
+actual ratio of the SE populations on the two states, at equilibrium =  0.177393857344
+
+Population of states at equilibirum for Temp 100.0  = 
+P0_eq =  1.0
+P1_eq =  1.93232626696e-14
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  100.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+1.0
+0.0
+actual ratio of the SH populations on the two states, at equilibrium =  0.0
+actual ratio of the SE populations on the two states, at equilibrium =  0.123899006026
+
+Population of states at equilibirum for Temp 200.0  = 
+P0_eq =  0.999999860992
+P1_eq =  1.39008119538e-07
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  200.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+1.0
+0.0
+actual ratio of the SH populations on the two states, at equilibrium =  0.0
+actual ratio of the SE populations on the two states, at equilibrium =  0.123899006026
+
+Population of states at equilibirum for Temp 300.0  = 
+P0_eq =  0.999973166221
+P1_eq =  2.68337785831e-05
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  300.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.999853
+0.000147
+actual ratio of the SH populations on the two states, at equilibrium =  0.000147021612177
+actual ratio of the SE populations on the two states, at equilibrium =  0.124043668214
+
+Population of states at equilibirum for Temp 400.0  = 
+P0_eq =  0.999627301004
+P1_eq =  0.000372698996218
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  400.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.998168
+0.001832
+actual ratio of the SH populations on the two states, at equilibrium =  0.00183536238389
+actual ratio of the SE populations on the two states, at equilibrium =  0.125696411881
+
+Population of states at equilibirum for Temp 500.0  = 
+P0_eq =  0.998195189686
+P1_eq =  0.00180481031389
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  500.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.992353
+0.007647
+actual ratio of the SH populations on the two states, at equilibrium =  0.00770592722549
+actual ratio of the SE populations on the two states, at equilibrium =  0.131451460841
+
+Population of states at equilibirum for Temp 600.0  = 
+P0_eq =  0.994846493638
+P1_eq =  0.00515350636193
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  600.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.979747
+0.020253
+actual ratio of the SH populations on the two states, at equilibrium =  0.0206716631947
+actual ratio of the SE populations on the two states, at equilibrium =  0.144132355864
+
+Population of states at equilibirum for Temp 700.0  = 
+P0_eq =  0.989132661881
+P1_eq =  0.0108673381187
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  700.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.962529
+0.037471
+actual ratio of the SH populations on the two states, at equilibrium =  0.038929736143
+actual ratio of the SE populations on the two states, at equilibrium =  0.161889209158
+
+Population of states at equilibirum for Temp 800.0  = 
+P0_eq =  0.981056762984
+P1_eq =  0.0189432370158
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  800.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.935399
+0.064601
+actual ratio of the SH populations on the two states, at equilibrium =  0.0690625070157
+actual ratio of the SE populations on the two states, at equilibrium =  0.191168896035
+
+Population of states at equilibirum for Temp 900.0  = 
+P0_eq =  0.970931686426
+P1_eq =  0.029068313574
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  900.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.912465
+0.087535
+actual ratio of the SH populations on the two states, at equilibrium =  0.095932446724
+actual ratio of the SE populations on the two states, at equilibrium =  0.217061666138
+
+Population of states at equilibirum for Temp 1000.0  = 
+P0_eq =  0.959212879387
+P1_eq =  0.040787120613
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  1000.0 Deco_method =  2
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.879984
+0.120016
+actual ratio of the SH populations on the two states, at equilibrium =  0.136384297896
+actual ratio of the SE populations on the two states, at equilibrium =  0.255601476665
+
+Population of states at equilibirum for Temp 100.0  = 
+P0_eq =  1.0
+P1_eq =  1.93232626696e-14
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  100.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.553162
+0.446838
+actual ratio of the SH populations on the two states, at equilibrium =  0.807788676735
+actual ratio of the SE populations on the two states, at equilibrium =  1.01759581794
+
+Population of states at equilibirum for Temp 200.0  = 
+P0_eq =  0.999999860992
+P1_eq =  1.39008119538e-07
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  200.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.550218
+0.449782
+actual ratio of the SH populations on the two states, at equilibrium =  0.817461442555
+actual ratio of the SE populations on the two states, at equilibrium =  1.02351317884
+
+Population of states at equilibirum for Temp 300.0  = 
+P0_eq =  0.999973166221
+P1_eq =  2.68337785831e-05
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  300.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.551024
+0.448976
+actual ratio of the SH populations on the two states, at equilibrium =  0.814802984988
+actual ratio of the SE populations on the two states, at equilibrium =  1.02025932735
+
+Population of states at equilibirum for Temp 400.0  = 
+P0_eq =  0.999627301004
+P1_eq =  0.000372698996218
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  400.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.559418
+0.440582
+actual ratio of the SH populations on the two states, at equilibrium =  0.787572083844
+actual ratio of the SE populations on the two states, at equilibrium =  1.00383632114
+
+Population of states at equilibirum for Temp 500.0  = 
+P0_eq =  0.998195189686
+P1_eq =  0.00180481031389
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  500.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.554367
+0.445633
+actual ratio of the SH populations on the two states, at equilibrium =  0.803859176322
+actual ratio of the SE populations on the two states, at equilibrium =  1.0092152484
+
+Population of states at equilibirum for Temp 600.0  = 
+P0_eq =  0.994846493638
+P1_eq =  0.00515350636193
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  600.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.554355
+0.445645
+actual ratio of the SH populations on the two states, at equilibrium =  0.803898224062
+actual ratio of the SE populations on the two states, at equilibrium =  1.01372579742
+
+Population of states at equilibirum for Temp 700.0  = 
+P0_eq =  0.989132661881
+P1_eq =  0.0108673381187
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  700.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.553762
+0.446238
+actual ratio of the SH populations on the two states, at equilibrium =  0.805829941383
+actual ratio of the SE populations on the two states, at equilibrium =  1.01431120282
+
+Population of states at equilibirum for Temp 800.0  = 
+P0_eq =  0.981056762984
+P1_eq =  0.0189432370158
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  800.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.54386
+0.45614
+actual ratio of the SH populations on the two states, at equilibrium =  0.838708491156
+actual ratio of the SE populations on the two states, at equilibrium =  1.04341833619
+
+Population of states at equilibirum for Temp 900.0  = 
+P0_eq =  0.970931686426
+P1_eq =  0.029068313574
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  900.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.550335
+0.449665
+actual ratio of the SH populations on the two states, at equilibrium =  0.817075054285
+actual ratio of the SE populations on the two states, at equilibrium =  1.02995279344
+
+Population of states at equilibirum for Temp 1000.0  = 
+P0_eq =  0.959212879387
+P1_eq =  0.040787120613
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  1000.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  0
+0.55221
+0.44779
+actual ratio of the SH populations on the two states, at equilibrium =  0.810905271545
+actual ratio of the SE populations on the two states, at equilibrium =  1.0154524642
+
+Population of states at equilibirum for Temp 100.0  = 
+P0_eq =  1.0
+P1_eq =  1.93232626696e-14
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  100.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+1.0
+0.0
+actual ratio of the SH populations on the two states, at equilibrium =  0.0
+actual ratio of the SE populations on the two states, at equilibrium =  0.347856045588
+
+Population of states at equilibirum for Temp 200.0  = 
+P0_eq =  0.999999860992
+P1_eq =  1.39008119538e-07
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  200.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+1.0
+0.0
+actual ratio of the SH populations on the two states, at equilibrium =  0.0
+actual ratio of the SE populations on the two states, at equilibrium =  0.34615965687
+
+Population of states at equilibirum for Temp 300.0  = 
+P0_eq =  0.999973166221
+P1_eq =  2.68337785831e-05
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  300.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+1.0
+0.0
+actual ratio of the SH populations on the two states, at equilibrium =  0.0
+actual ratio of the SE populations on the two states, at equilibrium =  0.345675744362
+
+Population of states at equilibirum for Temp 400.0  = 
+P0_eq =  0.999627301004
+P1_eq =  0.000372698996218
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  400.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.999685
+0.000315
+actual ratio of the SH populations on the two states, at equilibrium =  0.000315099256266
+actual ratio of the SE populations on the two states, at equilibrium =  0.348974378788
+
+Population of states at equilibirum for Temp 500.0  = 
+P0_eq =  0.998195189686
+P1_eq =  0.00180481031389
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  500.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.99851
+0.00149
+actual ratio of the SH populations on the two states, at equilibrium =  0.00149222341289
+actual ratio of the SE populations on the two states, at equilibrium =  0.348537681895
+
+Population of states at equilibirum for Temp 600.0  = 
+P0_eq =  0.994846493638
+P1_eq =  0.00515350636193
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  600.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.9957
+0.0043
+actual ratio of the SH populations on the two states, at equilibrium =  0.00431856985036
+actual ratio of the SE populations on the two states, at equilibrium =  0.350329984008
+
+Population of states at equilibirum for Temp 700.0  = 
+P0_eq =  0.989132661881
+P1_eq =  0.0108673381187
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  700.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.992795
+0.007205
+actual ratio of the SH populations on the two states, at equilibrium =  0.00725728876556
+actual ratio of the SE populations on the two states, at equilibrium =  0.355581744639
+
+Population of states at equilibirum for Temp 800.0  = 
+P0_eq =  0.981056762984
+P1_eq =  0.0189432370158
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  800.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.98731
+0.01269
+actual ratio of the SH populations on the two states, at equilibrium =  0.012853105914
+actual ratio of the SE populations on the two states, at equilibrium =  0.359811414467
+
+Population of states at equilibirum for Temp 900.0  = 
+P0_eq =  0.970931686426
+P1_eq =  0.029068313574
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  900.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.978442
+0.021558
+actual ratio of the SH populations on the two states, at equilibrium =  0.0220329871367
+actual ratio of the SE populations on the two states, at equilibrium =  0.369800245061
+
+Population of states at equilibirum for Temp 1000.0  = 
+P0_eq =  0.959212879387
+P1_eq =  0.040787120613
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  1000.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  1
+0.969482
+0.030518
+actual ratio of the SH populations on the two states, at equilibrium =  0.0314786659268
+actual ratio of the SE populations on the two states, at equilibrium =  0.376218466571
+
+Population of states at equilibirum for Temp 100.0  = 
+P0_eq =  1.0
+P1_eq =  1.93232626696e-14
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  100.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+1.0
+0.0
+actual ratio of the SH populations on the two states, at equilibrium =  0.0
+actual ratio of the SE populations on the two states, at equilibrium =  0.347267711228
+
+Population of states at equilibirum for Temp 200.0  = 
+P0_eq =  0.999999860992
+P1_eq =  1.39008119538e-07
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  200.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+1.0
+0.0
+actual ratio of the SH populations on the two states, at equilibrium =  0.0
+actual ratio of the SE populations on the two states, at equilibrium =  0.347951739617
+
+Population of states at equilibirum for Temp 300.0  = 
+P0_eq =  0.999973166221
+P1_eq =  2.68337785831e-05
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  300.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.999782
+0.000218
+actual ratio of the SH populations on the two states, at equilibrium =  0.000218047534362
+actual ratio of the SE populations on the two states, at equilibrium =  0.349354010271
+
+Population of states at equilibirum for Temp 400.0  = 
+P0_eq =  0.999627301004
+P1_eq =  0.000372698996218
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  400.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.999059
+0.000941
+actual ratio of the SH populations on the two states, at equilibrium =  0.000941886315022
+actual ratio of the SE populations on the two states, at equilibrium =  0.349035800502
+
+Population of states at equilibirum for Temp 500.0  = 
+P0_eq =  0.998195189686
+P1_eq =  0.00180481031389
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  500.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.996243
+0.003757
+actual ratio of the SH populations on the two states, at equilibrium =  0.00377116827922
+actual ratio of the SE populations on the two states, at equilibrium =  0.350447663581
+
+Population of states at equilibirum for Temp 600.0  = 
+P0_eq =  0.994846493638
+P1_eq =  0.00515350636193
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  600.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.987672
+0.012328
+actual ratio of the SH populations on the two states, at equilibrium =  0.0124818765744
+actual ratio of the SE populations on the two states, at equilibrium =  0.358320861435
+
+Population of states at equilibirum for Temp 700.0  = 
+P0_eq =  0.989132661881
+P1_eq =  0.0108673381187
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  700.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.980225
+0.019775
+actual ratio of the SH populations on the two states, at equilibrium =  0.0201739396567
+actual ratio of the SE populations on the two states, at equilibrium =  0.367344088612
+
+Population of states at equilibirum for Temp 800.0  = 
+P0_eq =  0.981056762984
+P1_eq =  0.0189432370158
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  800.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.966642
+0.033358
+actual ratio of the SH populations on the two states, at equilibrium =  0.0345091564405
+actual ratio of the SE populations on the two states, at equilibrium =  0.385106087092
+
+Population of states at equilibirum for Temp 900.0  = 
+P0_eq =  0.970931686426
+P1_eq =  0.029068313574
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  900.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.94701
+0.05299
+actual ratio of the SH populations on the two states, at equilibrium =  0.0559550585527
+actual ratio of the SE populations on the two states, at equilibrium =  0.401889563385
+
+Population of states at equilibirum for Temp 1000.0  = 
+P0_eq =  0.959212879387
+P1_eq =  0.040787120613
+Check: P0_eq + P1_eq =  1.0
+
+We are doing,  T =  1000.0 Deco_method =  3
+Manually decohherence times =  1.0
+We are treating frustrated hops using scheme:  2
+0.934372
+0.065628
+actual ratio of the SH populations on the two states, at equilibrium =  0.0702375499266
+actual ratio of the SE populations on the two states, at equilibrium =  0.416412340077
